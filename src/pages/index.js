@@ -1,6 +1,4 @@
 //Optional include of the default css styles
-import 'react-open-weather/lib/css/ReactWeather.css';
-
 import ArticlePreview from '../components/article-preview';
 import { Helmet } from 'react-helmet';
 import Hero from '../components/hero';
